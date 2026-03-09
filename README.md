@@ -1,3 +1,3 @@
 # sobre mim...
-*oá mundo, meu nome é*    
-**oá mundo. meu nome é**  
+*meu nome é Emilyn*     
+**minha ideda é de 16**
